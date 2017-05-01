@@ -1,3 +1,3 @@
-# My Awesome Book
+# Overview
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**Disclaimer:** This manual only tells the reader how to operate and organize the Kodak PixPro SP360 4K and not how to edit or upload the software on a computer.
