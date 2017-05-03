@@ -3,7 +3,7 @@
 		"scripts"
 	],
 
-	pluginsConfig": {
+	"pluginsConfig": {
 		"scripts": {
 			"files": [
 				"./SCRIPT.js"
