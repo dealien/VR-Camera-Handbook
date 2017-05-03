@@ -18,7 +18,7 @@ function buttonImage() {
    $("span:not([class])").replaceWith(function() {
       var assetName = $.trim($(this).text());
       return (
-         '<img src="./images/' + assetName + '.png" width=20 height=20 align="middle">'
+         '<img src="./images/' + assetName + '.png" width=24 height=24 align="middle">'
       );
    });
 }
