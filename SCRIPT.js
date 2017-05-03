@@ -14,11 +14,11 @@ function testjQuery() {
 }
 
 function buttonImage() {
-   console.log("Running function linkNames()");
+   console.log("Running function buttonTrigger()");
    $("span:not([class])").replaceWith(function() {
-      var username = $.trim($(this).text());
+      var assetName = $.trim($(this).text());
       return (
-         '<img src="https://upload.wikimedia.org/wikipedia/en/5/54/USS_Enterprise_%28NCC-1701-A%29.jpg" width=20 height=20 align="middle">'
+         '<img src="./images/' + assetName + '.png" width=20 height=20 align="middle">'
       );
    });
 }
