@@ -17,7 +17,7 @@ var path_to_images = "/images/buttons/";
 console.log("assets:", assets);
 
 function start() {
-   testDependencies();
+   testjQuery();
    // indexAssets();
 }
 
@@ -25,7 +25,7 @@ $.when($.ajax(indexAssets())).then(function() {
    addImages();
 });
 
-function testDependencies() {
+function testjQuery() {
    if (!window.jQuery) {
       console.error("jQuery is not loaded");
    } else {
