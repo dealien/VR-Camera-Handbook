@@ -1,3 +1,5 @@
+<style type="text/css" src="/styles/image-gallery.css"></style>
+
 # Getting Started
 
 ## Step 1: Taking Out The Cameras:
@@ -5,7 +7,7 @@
 Before you begin filming you want to make sure that all necessary pieces are accounted for and are in the right places. When getting out all the separate components, make sure all the following pieces are accounted for. 
 
 <div>
-  <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg">
+  <a href="./images/suction_mount.jpg">
     <figure>
       <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg" alt="">
     </figure>
