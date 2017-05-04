@@ -12,84 +12,79 @@ document.body.onload = start;
 
 var assets = [];
 var exists;
+var path_to_images =
+   "https://dealien.gitbooks.io/vr-camera-handbook/content/images/";
 
 console.log("assets:", assets);
 
 function start() {
-    testjQuery();
-    // indexAssets();
+   testjQuery();
+   // indexAssets();
 }
 
 $.when($.ajax(indexAssets())).then(function() {
-    addImages();
+   addImages();
 });
 
 function testjQuery() {
-    if (!window.jQuery) {
-        console.error("jQuery is not loaded");
-    } else {
-        console.info("jQuery is loaded");
-    }
+   if (!window.jQuery) {
+      console.error("jQuery is not loaded");
+   } else {
+      console.info("jQuery is loaded");
+   }
 }
 
 // The "callback" argument is called with either true or false
 // depending on whether the image at "url" exists or not.
 function imageExists(url, callback) {
-    var img = new Image();
-    img.onload = function() {
-        callback(true);
-    };
-    img.onerror = function() {
-        callback(false);
-    };
-    img.src = url;
+   var img = new Image();
+   img.onload = function() {
+      callback(true);
+   };
+   img.onerror = function() {
+      callback(false);
+   };
+   img.src = url;
 }
 
 function indexAssets() {
-    console.info("Running function indexAssets()");
-    $("span:not([class])").each(function() {
-        var assetName = $.trim($(this).text());
-        console.log(assetName);
-        var path =
-            "https://dealien.gitbooks.io/vr-camera-handbook/content/images/" +
-            assetName +
-            ".png";
-        console.log(path);
-        console.count("items tested for index");
-        imageExists(path, function(exists) {
-            console.log("RESULT: url=" + path + ", exists = " + exists);
-            if (exists === true) {
-                assets.push(assetName);
-                console.log("assets:", assets);
-            }
-        });
-    });
+   console.info("Running function indexAssets()");
+   $("span:not([class])").each(function() {
+      var assetName = $.trim($(this).text());
+      console.log(assetName);
+      var path = path_to_images + assetName + ".png";
+      console.log(path);
+      console.count("items tested for index");
+      imageExists(path, function(exists) {
+         console.log("RESULT: url=" + path + ", exists = " + exists);
+         if (exists === true) {
+            assets.push(assetName);
+            console.log("assets:", assets);
+         }
+      });
+   });
 }
 
 function addImages() {
-    console.info("Running function addImages()");
-    $("span:not([class])").replaceWith(function() {
-        var assetName = $.trim($(this).text());
-        console.log(assetName);
-        if (assets.indexOf(assetName) != -1) {
-            exists = true;
-            console.log("Image exists for", assetName);
-            return (
-                '<img src="./images/' +
-                assetName +
-                '.png" width=24 height=24 align="middle" id="' +
-                assetName +
-                '">'
-            );
-        } else {
-            exists = false;
-            console.error("Image does not exist for", assetName);
-            return '<span class="missing-asset">' + assetName + "</span>";
-        }
-        console.log(
-            "https://dealien.gitbooks.io/vr-camera-handbook/content/images/" +
-                assetName +
-                ".png"
-        );
-    });
+   console.info("Running function addImages()");
+   $("span:not([class])").replaceWith(function() {
+      var assetName = $.trim($(this).text());
+      console.log(assetName);
+      if (assets.indexOf(assetName) != -1) {
+         exists = true;
+         console.log("Image exists for", assetName);
+         return (
+            '<img src="./images/' +
+            assetName +
+            '.png" width=24 height=24 align="middle" id="' +
+            assetName +
+            '">'
+         );
+      } else {
+         exists = false;
+         console.error("Image does not exist for", assetName);
+         return '<span class="missing-asset">' + assetName + "</span>";
+      }
+      console.log(path_to_images + assetName + ".png");
+   });
 }

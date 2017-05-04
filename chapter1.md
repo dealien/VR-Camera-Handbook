@@ -10,6 +10,15 @@ Before you begin filming you want to make sure that all necessary pieces are acc
       <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg" alt="">
     </figure>
   </a>
+  <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg">
+    <figure>
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg" alt="">
+    </figure>
+  </a><a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg">
+    <figure>
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg" alt="">
+    </figure>
+  </a>
   </div>
 
 If you want to film a complete 360 degree video, use the two cameras with the double camera mount. 
