@@ -4,7 +4,13 @@
 
 Before you begin filming you want to make sure that all necessary pieces are accounted for and are in the right places. When getting out all the separate components, make sure all the following pieces are accounted for. 
 
-
+<div>
+  <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg">
+    <figure>
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg" alt="">
+    </figure>
+  </a>
+  </div>
 
 If you want to film a complete 360 degree video, use the two cameras with the double camera mount. 
 PICTURE OF DOUBLE CAMERA MOUNT
