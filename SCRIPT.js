@@ -38,13 +38,11 @@ function addImages() {
                 assetName +
                 ".png"
         );
-        if ((exists = true)) {
+        if (exists = true) {
             return (
                 '<img src="./images/' +
                 assetName +
-                '.png" width=24 height=24 align="middle" id="' +
-                assetName +
-                '">'
+                '.png" width=24 height=24 align="middle">'
             );
         } else {
             return assetName;
