@@ -1,11 +1,8 @@
 # Getting Started
 
 ## Step 1: Taking Out The Cameras:
-Before you begin filming you want to make sure that all necessary pieces are accounted for and are in the right places.
-When getting out all the separate components, make sure all the following pieces are accounted for. 
 
-
-
+Before you begin filming you want to make sure that all necessary pieces are accounted for and are in the right places. When getting out all the separate components, make sure all the following pieces are accounted for. 
 
 If you want to film a complete 360 degree video, use the two cameras with the double camera mount. 
 PICTURE OF DOUBLE CAMERA MOUNT
