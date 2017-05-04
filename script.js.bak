@@ -1,9 +1,5 @@
 document.body.onload = start;
 
-console.log("");
-console.log("");
-console.log("");
-
 function start() {
    testjQuery();
    buttonImage();
@@ -39,7 +35,7 @@ function buttonImage() {
             return (
                '<img src="./images/' +
                assetName +
-               '.png" width=24 height=24 align="middle" id="image-asset ' +
+               '.png" width=24 height=24 align="middle" id="' +
                assetName +
                '">'
             );
