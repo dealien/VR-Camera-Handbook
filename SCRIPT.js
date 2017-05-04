@@ -17,7 +17,7 @@ var path_to_images = "/images/buttons/";
 console.log("assets:", assets);
 
 function start() {
-   testjQuery();
+   testDependencies();
    // indexAssets();
 }
 
@@ -25,12 +25,15 @@ $.when($.ajax(indexAssets())).then(function() {
    addImages();
 });
 
-function testjQuery() {
+function testDependencies() {
    if (!window.jQuery) {
       console.error("jQuery is not loaded");
    } else {
       console.info("jQuery is loaded");
    }
+   var fs = require('fs');
+var files = fs.readdirSync('/images/');
+console.log(files);
 }
 
 // The "callback" argument is called with either true or false
