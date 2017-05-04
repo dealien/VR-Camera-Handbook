@@ -17,10 +17,23 @@ function buttonImage() {
    console.log("Running function buttonTrigger()");
    $("span:not([class])").replaceWith(function() {
       var assetName = $.trim($(this).text());
-      return (
-         '<img src="./images/' +
-         assetName +
-         '.png" width=24 height=24 align="middle">'
-      );
+      $.ajax({
+         url: "https://dealien.gitbooks.io/vr-camera-handbook/content/images/" +
+            assetName +
+            ".png",
+         type: "HEAD",
+         error: function() //file not exists
+         {
+            return;
+         },
+         success: function() //file exists
+         {
+            return (
+               '<img src="./images/' +
+               assetName +
+               '.png" width=24 height=24 align="middle">'
+            );
+         }
+      });
    });
 }
