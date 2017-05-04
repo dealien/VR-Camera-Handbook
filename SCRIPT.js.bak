@@ -13,7 +13,7 @@ document.body.onload = start;
 var assets = [];
 var exists;
 var path_to_images =
-   "https://dealien.gitbooks.io/vr-camera-handbook/content/images/";
+   "https://dealien.gitbooks.io/vr-camera-handbook/content/images/buttons/";
 
 console.log("assets:", assets);
 
