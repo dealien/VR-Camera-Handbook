@@ -31,9 +31,9 @@ function testDependencies() {
    } else {
       console.info("jQuery is loaded");
    }
-   var fs = require('fs');
-var files = fs.readdirSync('/images/');
-console.log(files);
+   var fs = require("fs");
+   var files = fs.readdirSync("/images/");
+   console.log(files);
 }
 
 // The "callback" argument is called with either true or false
