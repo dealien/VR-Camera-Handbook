@@ -78,7 +78,7 @@ function addImages() {
         } else {
             exists = false;
             console.error("Image does not exist for", assetName);
-            return '<span class="tested">' + assetName + "</span>";
+            return '<span class="missing-asset">' + assetName + "</span>";
         }
         console.log(
             "https://dealien.gitbooks.io/vr-camera-handbook/content/images/" +
