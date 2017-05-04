@@ -9,3 +9,7 @@ Press <span>menu</span> to make magic happen.
 Press <span>other</span> to do something else. 
 
 Press <span>record</span> if you dare. 
+
+### To-Do
+
+* Make the inline image script re-run on page change
