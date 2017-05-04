@@ -24,7 +24,11 @@ function buttonImage() {
          type: "HEAD",
          error: function() //file not exists
          {
-            return;
+            return (
+               '<span class="missing-asset">' +
+               assetName +
+               '</span>'
+            );
          },
          success: function() //file exists
          {
