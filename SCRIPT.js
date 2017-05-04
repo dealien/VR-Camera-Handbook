@@ -12,8 +12,6 @@ document.body.onload = start;
 
 var assets = [];
 var exists;
-var path_to_images =
-   "https://dealien.gitbooks.io/vr-camera-handbook/content/images/buttons/";
 
 console.log("assets:", assets);
 
@@ -52,7 +50,10 @@ function indexAssets() {
    $("span:not([class])").each(function() {
       var assetName = $.trim($(this).text());
       console.log(assetName);
-      var path = path_to_images + assetName + ".png";
+      var path =
+         "https://dealien.gitbooks.io/vr-camera-handbook/content/images/buttons/" +
+         assetName +
+         ".png";
       console.log(path);
       console.count("items tested for index");
       imageExists(path, function(exists) {
@@ -85,6 +86,10 @@ function addImages() {
          console.error("Image does not exist for", assetName);
          return '<span class="missing-asset">' + assetName + "</span>";
       }
-      console.log(path_to_images + assetName + ".png");
+      console.log(
+         "https://dealien.gitbooks.io/vr-camera-handbook/content/images/buttons/" +
+            assetName +
+            ".png"
+      );
    });
 }
