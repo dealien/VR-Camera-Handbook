@@ -1,6 +1,6 @@
-# Getting Set Up
+# Getting Started
 
-Step 1: Taking Out The Cameras:
+## Step 1: Taking Out The Cameras:
 Before you begin filming you want to make sure that all necessary pieces are accounted for and are in the right places.
 When getting out all the separate components, make sure all the following pieces are accounted for. 
 
