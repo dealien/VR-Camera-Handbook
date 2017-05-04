@@ -7,9 +7,9 @@
 Before you begin filming you want to make sure that all necessary pieces are accounted for and are in the right places. When getting out all the separate components, make sure all the following pieces are accounted for. 
 
 <div>
-  <a href="./images/thors/hammer.jpg">
+  <a href="./images_thors/hammer.jpg">
     <figure>
-      <img src="./images/thors/hammer.jpg" alt="">
+      <img src="./images/thors_hammer.jpg" alt="">
     </figure>
   </a>
   <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg">
