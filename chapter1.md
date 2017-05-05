@@ -1,5 +1,4 @@
 <style type="text/css" src="/styles/image-gallery.css"></style>
-<script type="text/javascript" src="https://dealien.gitbooks.io/vr-camera-handbook/content/SCRIPT.js"></script>
 
 # Getting Started
 
