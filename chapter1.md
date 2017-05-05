@@ -4,23 +4,15 @@
 
 ## Step 1: Taking Out The Cameras:
 
-Before you begin filming you want to make sure that all necessary pieces are accounted for and are in the right places. When getting out all the separate components, make sure all the following pieces are accounted for. 
+Before you begin filming, you have make sure that all necessary pieces are accounted for and are in the right places. When getting out all the separate components, make sure all the following pieces are accounted for. 
 
 <div>
-  <a href="./images/thors_hammer.JPG">
-    <figure>
-      <img src="./images/thors_hammer.JPG" alt="">
-    </figure>
-  </a>
-  <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg">
-    <figure>
-      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg" alt="">
-    </figure>
-  </a><a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg">
-    <figure>
-      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/placeimg01.jpg" alt="">
-    </figure>
-  </a>
+  <span class="img">handle_mount</span>
+  <span class="img">single_mount</span>
+  <span class="img">dual_mount</span>
+  <span class="img">suction_mount</span>
+  <span class="img">screw_key</span>
+  <span class="img">camera_bag</span>
   </div>
 
 If you want to film a complete 360 degree video, use the two cameras with the double camera mount. 
