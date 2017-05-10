@@ -13,7 +13,7 @@ document.body.onload = start;
 var assets = [];
 var exists;
 var path_to_images = "assets/";
-var path_to_button_images = "assets/buttons/";
+var path_to_button_images = "assets/inline/";
 
 console.log("assets:", assets);
 
