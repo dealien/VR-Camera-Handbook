@@ -1,4 +1,5 @@
 <style type="text/css" src="/styles/image-gallery.css"></style>
+<script type="text/javascript" src="./SCRIPT.js"></script>
 
 # Getting Started
 
