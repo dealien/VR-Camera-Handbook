@@ -106,7 +106,7 @@ function addImages() {
             "https://dealien.gitbooks.io/vr-camera-handbook/content/" +
             path_to_images +
             assetName +
-            ".JPG";
+            ".png";
         console.log(path);
         var addedImage = {
             name: assetName,
