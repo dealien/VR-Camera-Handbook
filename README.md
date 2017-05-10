@@ -1,3 +1,5 @@
+<script type="text/javascript" src="./SCRIPT.js"></script>
+
 # Overview
 
 **Please note** that this manual only tells how to operate and organize the Kodak PixPro SP360 4K and contains no information about editing the video.

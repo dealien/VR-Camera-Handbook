@@ -1,6 +1,8 @@
 {
 	"plugins": [
-		"scripts"
+		"scripts",
+        	"richquotes"
+
 	],
 
 	"pluginsConfig": {
