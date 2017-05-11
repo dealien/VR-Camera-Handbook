@@ -9,7 +9,7 @@ Before you begin filming you want to make sure that all necessary pieces are acc
 
 <div>
   <span class="img">handle_mount</span>
-  <span class="img">single_![](/assets/pair_settings.png)mount</span>
+  <span class="img">mount</span>
   <span class="img">dual_mount</span>
   <span class="img">suction_mount</span>
   <span class="img">screw_key</span>
