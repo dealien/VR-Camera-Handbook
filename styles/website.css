@@ -1,4 +1,4 @@
-@import "./styles/image-gallery.css"
+@import "image-gallery.css"
 
 .missing-asset {
   display: inline;
