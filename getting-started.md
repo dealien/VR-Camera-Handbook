@@ -8,87 +8,97 @@
 Before you begin filming you want to make sure that all necessary pieces are accounted for.
 
 <div>
-  <span class="img">handle_mount</span>
-  <span class="img">mount</span>
-  <span class="img">dual_mount</span>
-  <span class="img">suction_mount</span>
-  <span class="img">screw_key</span>
-  <span class="img">camera_bag</span>
+<span class="img">handle_mount</span>
+<span class="img">single_![](/assets/pair_settings.png)mount</span>
+<span class="img">dual_mount</span>
+<span class="img">suction_mount</span>
+<span class="img">screw_key</span>
+<span class="img">camera_bag</span>
 </div>
 
+* When getting out all the separate components, ensure all the necessary parts are present.
+* If you want to film a complete 360 degree video, use the two cameras with the double camera mount.
 
-* When getting out all the separate components, ensure all the necessary parts are present. 
+<div>
+<span class="img">handle_mount</span>
+</div>
 
-* If you want to film a complete 360 degree video, use the two cameras with the double camera mount. 
- IMG_1893.JPG 
+* If you are only going to film a 180 degree video, use the single camera mount.
+* The suction attachment is used to attach the camera to stationary flat wall or surface.
+* The handle mount is used for someone to hold and move the cameras while filming.
+* The control watch is used to synchronize starting and stopping a recording, and to make sure pictures are taken at exactly the same time.
 
-* If you are only going to film a 180 degree video, use the single camera mount. 
-  
 
-* The suction attachment is used to attach the camera to stationary flat wall or surface. 
-  
 
-* The handle mount is used for someone to hold and move the cameras while filming. 
-  
+## Camera Mechanical Assembly
 
-* The control watch is used to synchronize starting and stopping a recording, and to make sure pictures are taken at exactly the same time. 
-  
-
-Camera Mechanical Assembly
 To get you cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount
-* Unzip the camera case and take out the two cameras. 
-* For attaching the cameras to the double camera mount, take one camera and find the screw hole (this should be right below the camera lense and right above the SD card slot). 
-  
 
-* Once located, position on the mount so that the screw on the mount lines up with the screw hole on the camera. 
-* Use a flathead screwdriver to screw the camera into position. 
-* Do the same for the other camera on the other side of the mount. 
-* After the cameras are securely in position, swing the fastening bar into alignment with the threads at the bottom of the mount 
-  
-  
-
+* Unzip the camera case and take out the two cameras.
+* For attaching the cameras to the double camera mount, take one camera and find the screw hole (this should be right below the camera lense and right above the SD card slot).
+* Once located, position on the mount so that the screw on the mount lines up with the screw hole on the camera.
+* Use a flathead screwdriver to screw the camera into position.
+* Do the same for the other camera on the other side of the mount.
+* After the cameras are securely in position, swing the fastening bar into alignment with the threads at the bottom of the mount
 * After this, take out either the and or suction cup attachment or the hand attachment from the accessories box (box that does not contain cameras)
 * Position the threads on the suction or hand mount so that they are in between the threads on the double camera mount
-  
-
 * Screw in the knob that came with the double mount into all of the threads until secure
-   
-*  You now have the mechanical parts of the camera correctly set up
-Camera Calibration
+* You now have the mechanical parts of the camera correctly set up
+
+
+
+## Camera Calibration
+
 If your camera are already set with the date and time, this step is not necessary.
 * Turn on both cameras by pressing <span>record</span> until you hear a beep
 * If your cameras are not calibrated, on the screen it should show the date and time as zero
 * To set the date and time, use the the two triangular buttons <span>power</span> and <span>menu</span>to move up and down the dates and the record button to move left and right by pressing down on either the left or right side of the button. To confirm your selected choice, press on the center of the record button
 * Make sure the calibration on both cameras are generally the same (it's okay if the time on the cameras is not exactly the same as long as they’re generally accurate)
 * Your cameras are now ready to be synced
-Using The Control Watch
-Syncing the cameras to the control watch allows for simultaneous control of both cameras. This reduces the time difference between the start frames of the recording, making editing easier. 
-* Turn on both cameras. 
-* Press <span>menu</span> and scroll until you see <span>pair_settings</span> and press <span>record</span>. 
-* Scroll to <span>multi_pair</span> and press <span>record</span>, then select <span>pairing_confirm</span>. 
-* Follow these steps on both cameras. 
-* Once you see <span>pairing_process</span> on both cameras, press both buttons on the watch until BOTH cameras show <span>pairing_success</span>. 
-* Now both cameras can be controlled using the watch for taking bot pictures and videos. 
-Using The Mounts
+
+
+
+## Using The Control Watch
+Syncing the cameras to the control watch allows for simultaneous control of both cameras. This reduces the time difference between the start frames of the recording, making editing easier.
+* Turn on both cameras.
+* Press <span>menu</span> and scroll until you see <span>pair_settings</span> and press <span>record</span>.
+* Scroll to <span>multi_pair</span> and press <span>record</span>, then select <span>pairing_confirm</span>.
+* Follow these steps on both cameras.
+* Once you see <span>pairing_process</span> on both cameras, press both buttons on the watch until BOTH cameras show <span>pairing_success</span>.
+* Now both cameras can be controlled using the watch for taking bot pictures and videos.
+
+
+
+## Using The Mounts
+
 Once you are ready to film, it is very important you know how to use the mount you intend to film with so you do not break it and so you can get the best film quality.
-With The Suction Mount:
-* Find a completely smooth and flat area to attach your camera’s to 
-  
 
+##### With The Suction Mount
+
+* Find a completely smooth and flat area to attach your camera’s to
 * Hold the mount firmly against the surface and push down the hand on the mount to secure it.
-  
-
 * If you can, check the other side of the surface and see if the mount has a darker suction ring (not necessary if you are not mount it on glass
 * Your suction mount is now in place and ready to film
-With Hand Mount:
+
+##### With Hand Mount
+
 * Simply hold the mount in your hand
-Charging The Batteries
+
+
+
+## Charging The Batteries
+
 If you are using the cameras for a long period of time you are going to need to charge the batteries. This section is about charging a battery connected by usb to your computer and not charging using the charging port. In the quick start guide that comes with the cameras, it tells you how to charge the batteries using the charging port.
+
 * Get a micro usb to usb cable
 * Plug the micro usb end into the camera and the usb end into your computer
 * As long as the camera is off the battery should start charging
 * Estimated time for charging is about 2 hours. It may take longer and if so, just keep charging for a longer time
-Before Filming Things to Double Check
+
+
+
+## Before Filming Things to Double Check
+
 * Are both batteries charged?
 * Are both mini sd cards in camera?
 * Are the cameras securely put on the mount?
