@@ -16,4 +16,4 @@ Press <span>record</span> if you dare.
 
 ### To-Do
 
-* Make the inline image script re-run on page change
+[ ] Make the inline image script re-run on page change
