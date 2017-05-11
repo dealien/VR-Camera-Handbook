@@ -8,18 +8,6 @@
 
 /* Image Gallery Style */
 
-body {
-width: 80%;
-margin: 30px auto;
-font-family: sans-serif;
-}
-
-h3 {
-text-align: center;
-font-size: 1.65em;
-margin: 0 0 30px;
-}
-
 div {
 display: flex;
 flex-wrap: wrap;
