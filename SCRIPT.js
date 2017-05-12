@@ -120,7 +120,7 @@ function addImages() {
         var content =
             '<a href="' +
             path +
-            '" class="image-gallery"><figure class="image-gallery"><img src="' +
+            '" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="' +
             path +
             '" alt="" class="image-gallery"></figure></a>';
         $(this).replaceWith(content);
