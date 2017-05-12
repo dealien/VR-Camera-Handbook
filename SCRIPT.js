@@ -120,9 +120,9 @@ function addImages() {
         var content =
             '<a href="' +
             path +
-            '"><figure><img src="' +
+            '" class="image-gallery"><figure class="image-gallery"><img src="' +
             path +
-            '" alt=""></figure></a>';
+            '" alt="" class="image-gallery"></figure></a>';
         $(this).replaceWith(content);
     });
 }
