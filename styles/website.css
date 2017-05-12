@@ -8,12 +8,12 @@
 
 /* Image Gallery Style */
 
-div .image-gallery {
+div.image-gallery {
 display: flex;
 flex-wrap: wrap;
 }
 
-a .image-gallery {
+a.image-gallery {
 display: inline-block;
 margin-bottom: 8px;
 width: calc(50% - 4px);
@@ -45,9 +45,7 @@ transform: scale(1.15);
 figure.image-gallery  {
 margin: 0;
 overflow: hidden;
-}
-
-figcaption.image-gallery  {
+}figcaption.image-gallery  {
 margin-top: 15px;
 }
 
