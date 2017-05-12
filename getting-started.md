@@ -15,6 +15,10 @@ Before you begin filming you want to make sure that all necessary pieces are acc
 <span class="img">screw_key</span>
 <span class="img">camera_bag</span>
 <span class="img">camera</span>
+<span class="img">lens_cap</span>
+<span class="img">lens_ring</span>
+<span class="img">protective_lens</span>
+<span class="img">watch</span>
 </div>
 
 * When getting out all the separate components, ensure all the necessary parts are present.
