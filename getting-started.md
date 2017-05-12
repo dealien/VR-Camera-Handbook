@@ -7,7 +7,7 @@
 
 Before you begin filming you want to make sure that all necessary pieces are accounted for.
 
-<div>
+<div class="image-gallery">
 <span class="img">handle_mount</span>
 <span class="img">mount</span>
 <span class="img">dual_mount</span>
@@ -19,7 +19,7 @@ Before you begin filming you want to make sure that all necessary pieces are acc
 * When getting out all the separate components, ensure all the necessary parts are present.
 * If you want to film a complete 360 degree video, use the two cameras with the double camera mount.
 
-<div>
+<div class="image-gallery">
 <span class="img">handle_mount</span>
 </div>
 
