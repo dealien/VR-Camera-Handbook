@@ -142,6 +142,11 @@ function addImages() {
             path_to_images +
             assetName +
             ".png";
+        var ipath =
+        "https://dealien.gitbooks.io/vr-camera-handbook/content/" +
+        path_to_images +
+        assetName +
+        "_thumbnail.png";
         console.log(path);
         var addedImage = {
             name: assetName,
@@ -156,7 +161,7 @@ function addImages() {
             '<a href="' +
             path +
             '" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="' +
-            path +
+            ipath +
             '" alt="" class="image-gallery"></figure></a>';
         $(this).replaceWith(content);
     });
