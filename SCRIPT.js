@@ -15,6 +15,22 @@ var exists;
 var path_to_images = "assets/";
 var path_to_button_images = "assets/inline/";
 
+// Custom image size settings
+var custom_images = [
+    "pair_settings",
+    "pairing_confirm", "pairing_success"
+];
+var image_properties = [{
+    width: 60,
+    height: 50
+}, {
+    width: 60,
+    height: 50
+}, {
+    width: 60,
+    height: 50
+}];
+
 console.log("assets:", assets);
 
 function start() {
@@ -77,11 +93,20 @@ function addImages() {
         if (assets.indexOf(assetName) != -1) {
             exists = true;
             console.log("Image exists for", assetName);
+            var width = 24;
+            var height = 24;
+            if (custom_images.indexOf(assetName) != -1) {
+                width = images[0][name][1].height;
+            }
             return (
                 '<img src="https://dealien.gitbooks.io/vr-camera-handbook/content/' +
                 path_to_button_images +
                 assetName +
-                '.png" width=24 height=24 align="middle" id="' +
+                '.png" width=' +
+                width +
+                " height=" +
+                height +
+                ' align="middle" id="' +
                 assetName +
                 '">'
             );
@@ -92,9 +117,9 @@ function addImages() {
         }
         console.log(
             "https://dealien.gitbooks.io/vr-camera-handbook/content/" +
-                path_to_button_images +
-                assetName +
-                ".png"
+            path_to_button_images +
+            assetName +
+            ".png"
         );
     });
 
