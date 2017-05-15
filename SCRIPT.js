@@ -25,16 +25,16 @@ var image_properties = [{
     width: 77,
     height: 64
 }, {
-    width: 77,
+    width: 102,
     height: 64
 }, {
-    width: 77,
+    width: 102,
     height: 64
 }, {
-    width: 77,
+    width: 102,
     height: 64
 }, {
-    width: 77,
+    width: 102,
     height: 64
 }];
 
