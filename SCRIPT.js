@@ -22,20 +22,20 @@ var custom_images = [
     "multi_pair"
 ];
 var image_properties = [{
-    width: 60,
-    height: 50
+    width: 77,
+    height: 64
 }, {
-    width: 60,
-    height: 50
+    width: 77,
+    height: 64
 }, {
-    width: 60,
-    height: 50
+    width: 77,
+    height: 64
 }, {
-    width: 60,
-    height: 50
+    width: 77,
+    height: 64
 }, {
-    width: 60,
-    height: 50
+    width: 77,
+    height: 64
 }];
 
 console.log("assets:", assets);
