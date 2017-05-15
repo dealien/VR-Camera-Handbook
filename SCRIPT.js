@@ -143,10 +143,10 @@ function addImages() {
             assetName +
             ".png";
         var ipath =
-        "https://dealien.gitbooks.io/vr-camera-handbook/content/" +
-        path_to_images +
-        assetName +
-        "_thumbnail.png";
+            "https://dealien.gitbooks.io/vr-camera-handbook/content/" +
+            path_to_images +
+            assetName +
+            "_thumbnail.png";
         console.log(path);
         var addedImage = {
             name: assetName,
