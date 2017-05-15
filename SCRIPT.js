@@ -14,8 +14,16 @@ var path_to_images = "assets/";
 var path_to_button_images = "assets/inline/";
 
 // Custom image size settings
-var custom_images = ["pair_settings", "pairing_confirm", "pairing_success"];
+var custom_images = ["pair_settings", "pairing_confirm", "pairing_success", "pairing_process", "multi_pair"];
 var image_properties = [
+   {
+      width: 60,
+      height: 50
+   },
+   {
+      width: 60,
+      height: 50
+   },
    {
       width: 60,
       height: 50
