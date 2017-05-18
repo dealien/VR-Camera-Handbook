@@ -1,1 +1,1 @@
-mogrify *.png -resize 180x180 *.png
+mogrify *.png -resize 180x180 *.png -debug
