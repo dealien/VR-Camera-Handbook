@@ -37,7 +37,7 @@ Before you begin filming you want to make sure that all necessary pieces are acc
 
 ## Camera Mechanical Assembly
 
-To get you cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount
+To get you cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount. 
 
 * Unzip the camera case and take out the two cameras.
 * For attaching the cameras to the double camera mount, take one camera and find the screw hole (this should be right below the camera lense and right above the SD card slot).
@@ -82,7 +82,6 @@ Once you are ready to film, it is very important you know how to use the mount y
 
 * Find a completely smooth and flat area to attach your camera’s to
 * Hold the mount firmly against the surface and push down the hand on the mount to secure it.
-* If you can, check the other side of the surface and see if the mount has a darker suction ring (not necessary if you are not mount it on glass
 * Your suction mount is now in place and ready to film
 
 ##### With Hand Mount
@@ -95,17 +94,17 @@ Once you are ready to film, it is very important you know how to use the mount y
 
 If you are using the cameras for a long period of time you are going to need to charge the batteries. This section is about charging a battery connected by usb to your computer and not charging using the charging port. In the quick start guide that comes with the cameras, it tells you how to charge the batteries using the charging port.
 
-* Get a micro usb to usb cable
-* Plug the micro usb end into the camera and the usb end into your computer
+* Get a micro USB to USB cable
+* Plug the micro USB end into the camera and the USB end into your computer
 * As long as the camera is off the battery should start charging
-* Estimated time for charging is about 2 hours. It may take longer and if so, just keep charging for a longer time
+* Estimated time for charging is about two hours. It may take longer and if so, just keep charging for a longer time
 
 
 
 ## Before Filming Things to Double Check
 
 * Are both batteries charged?
-* Are both mini sd cards in camera?
+* Are both mini SD cards in camera?
 * Are the cameras securely put on the mount?
 * Is there any dirt or dust on the cameras’ lenses?
 * Are the camera’s synced up?
