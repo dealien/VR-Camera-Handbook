@@ -1,75 +1,85 @@
 .missing-asset {
-  display: inline;
-  border: 5px solid red;
-  padding: 3px;
+    display: inline;
+    border: 5px solid red;
+    padding: 3px;
 }
 
 
 
 /* Image Gallery Style */
-
 div.image-gallery {
-display: flex;
-flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 a.image-gallery {
-display: inline-block;
-margin-bottom: 8px;
-width: calc(100% - 2px);
-margin-right: 8px;
-text-decoration: none;
-color: black;
+    display: inline-block;
+    margin-bottom: 8px;
+    width: calc(100% - 2px);
+    margin-right: 8px;
+    text-decoration: none;
+    color: black;
+    transition: all 0.5s;
+}
+
+a.image-gallery:hover {
+    height: 25%;
+    width: 25%;
 }
 
 a.image-gallery :nth-of-type(2n) {
-margin-right: 0;
+    margin-right: 0;
 }
 
 @media screen and (min-width: 50em) {
-a.image-gallery  {
-width: calc(25% - 6px);
-}
-a.image-gallery:nth-of-type(2n) {
-margin-right: 8px;
-}
-a.image-gallery:nth-of-type(4n) {
-margin-right: 0;
-}
+    a.image-gallery {
+        width: calc(23% - 6px);
+    }
+
+    a.image-gallery:nth-of-type(2n) {
+        margin-right: 8px;
+    }
+
+    a.image-gallery:nth-of-type(4n) {
+        margin-right: 0;
+    }
 }
 
 a.image-gallery :hover img {
-transform: scale(1.15);
+    transform: scale(1.15);
 }
 
-figure.image-gallery  {
-margin: 0;
-overflow: hidden;
-}figcaption.image-gallery  {
-margin-top: 15px;
+figure.image-gallery {
+    margin: 0;
+    overflow: hidden;
 }
 
-img.image-gallery  {
-border: none;
-max-width: 100%;
-height: auto;
-display: block;
-background: #ccc;
-transition: transform .2s ease-in-out;
+figcaption.image-gallery {
+    margin-top: 15px;
 }
 
-.p a.image-gallery  {
-display: inline;
-font-size: 13px;
-margin: 0;
-text-decoration: underline;
-color: blue;
+img.image-gallery {
+    border: none;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 5px;
+    background: #ccc;
+    transition: transform .2s ease-in-out;
 }
 
-.p.image-gallery  {
-text-align: center;
-font-size: 13px;
-padding-top: 100px;
+.p a.image-gallery {
+    display: inline;
+    font-size: 13px;
+    margin: 0;
+    text-decoration: underline;
+    color: blue;
+}
+
+.p.image-gallery {
+    text-align: center;
+    font-size: 13px;
+    padding-top: 100px;
 }
 
 /* End Image Gallery Style */
