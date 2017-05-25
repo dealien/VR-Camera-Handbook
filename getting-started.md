@@ -56,6 +56,9 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
     </a>
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch_thumbnail.png" alt="" class="image-gallery"></figure>
+        <figcaption><b>Control Watch</b><br>
+        Used for basic control of both cameras simultaniously. 
+        </figcaption>
     </a>
 </div><br>
 
