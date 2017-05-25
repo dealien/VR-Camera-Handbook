@@ -68,8 +68,7 @@ To get your cameras ready to film, you have to assemble all of the mechanical pa
 * Use a flathead screwdriver to screw the camera into position.
 * Do the same for the other camera on the other side of the mount.
 * After the cameras are securely in position, swing the fastening bar into alignment with the threads at the bottom of the mount
-* After this, take out either the and or suction cup attachment or the hand attachment from the accessories box (box that does not contain cameras)
-* Position the threads on the suction or hand mount so that they are in between the threads on the double camera mount
+* Position the threads on the desired mount between the threads on the double camera mount
 * Screw in the knob that came with the double mount into all of the threads until secure
 * You now have the mechanical parts of the camera correctly set up
 
@@ -77,11 +76,11 @@ To get your cameras ready to film, you have to assemble all of the mechanical pa
 
 ## Camera Calibration
 
-If your camera are already set with the date and time, this step is not necessary.
+If your cameras are already set with the date and time, this step is not necessary.
 * Turn on both cameras by pressing <span>record</span> until you hear a beep
 * If your cameras are not calibrated, on the screen it should show the date and time as zero
 * To set the date and time, use the the two triangular buttons <span>power</span> and <span>menu</span>to move up and down the dates and the record button to move left and right by pressing down on either the left or right side of the button. To confirm your selected choice, press on the center of the record button
-* Make sure the calibration on both cameras are generally the same (it's okay if the time on the cameras is not exactly the same as long as they’re generally accurate)
+* Make sure the calibration on both cameras are generally the same (it is okay if the time on the cameras is not exactly the same as long as they’re generally accurate)
 * Your cameras are now ready to be synced
 
 
