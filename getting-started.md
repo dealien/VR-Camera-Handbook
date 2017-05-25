@@ -5,7 +5,7 @@
 
 ## Taking Out The Cameras
 
-Before you begin filming, it is advisable to ensure that all necessary pieces are accounted for. <br>
+Before you begin filming, ensure that all necessary pieces are accounted for. <br>
 
 <div class="image-gallery">
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount.png" class="image-gallery" target="_blank">
