@@ -86,6 +86,7 @@ If your cameras are already set with the date and time, this step is not necessa
 
 
 ## Using The Control Watch
+
 Syncing the cameras to the control watch allows for simultaneous control of both cameras. This reduces the time difference between the start frames of the recording, making editing easier.
 * Turn on both cameras.
 * Press <span>menu</span> and scroll until you see <span>pair_settings</span> and press <span>record</span>.
