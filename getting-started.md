@@ -18,13 +18,17 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
     </a>
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery">
-        <figcaption><b>Suction Mount</b><br>
+        <figcaption>
+        <b>Suction Mount</b><br>
         Used to attach the camera to stationary flat wall or surface.
 </figcaption>
         </figure>
     </a>
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount_thumbnail.png" alt="" class="image-gallery"></figure>
+        <figcaption><b>Dual Mount</b><br>
+        Used to film complete 360 degree video with both cameras. 
+        </figcaption>
     </a>
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery"></figure>
@@ -52,7 +56,6 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
     </a>
 </div><br>
 
-* If you want to film a complete 360 degree video, use the two cameras with the double camera mount.
 * If you are only going to film a 180 degree video, use the single camera mount.
 * The control watch is used to synchronize starting and stopping a recording, and to make sure pictures are taken at exactly the same time.
 
