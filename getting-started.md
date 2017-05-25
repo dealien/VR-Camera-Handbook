@@ -50,8 +50,7 @@ Before you begin filming you want to make sure that all necessary pieces are acc
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch_thumbnail.png" alt="" class="image-gallery"></figure>
     </a>
-</div>
-<br>
+</div><br>
 
 * If you want to film a complete 360 degree video, use the two cameras with the double camera mount.
 * If you are only going to film a 180 degree video, use the single camera mount.
