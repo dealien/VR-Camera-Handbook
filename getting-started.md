@@ -11,11 +11,17 @@ Before you begin filming you want to make sure that all necessary pieces are acc
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount.png" class="image-gallery" target="_blank">
         <figure class="image-gallery">
             <img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount_thumbnail.png" alt="" class="image-gallery"> 
-            <figcaption>Handle Mount</figcaption>
+            <figcaption><b>Handle Mount</b><br>
+            Used for someone to hold and move the cameras while filming.
+</figcaption>
         </figure>
     </a>
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank">
-        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery"></figure>
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery">
+        <figcaption><b>Suction Mount</b><br>
+        Used to attach the camera to stationary flat wall or surface.
+</figcaption>
+        </figure>
     </a>
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount_thumbnail.png" alt="" class="image-gallery"></figure>
@@ -48,8 +54,6 @@ Before you begin filming you want to make sure that all necessary pieces are acc
 
 * If you want to film a complete 360 degree video, use the two cameras with the double camera mount.
 * If you are only going to film a 180 degree video, use the single camera mount.
-* The suction attachment is used to attach the camera to stationary flat wall or surface.
-* The handle mount is used for someone to hold and move the cameras while filming.
 * The control watch is used to synchronize starting and stopping a recording, and to make sure pictures are taken at exactly the same time.
 
 
