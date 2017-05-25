@@ -21,13 +21,7 @@ Before you begin filming you want to make sure that all necessary pieces are acc
 <span class="img">watch</span>
 </div>
 
-* When getting out all the separate components, ensure all the necessary parts are present.
 * If you want to film a complete 360 degree video, use the two cameras with the double camera mount.
-
-<div class="image-gallery">
-<span class="img">handle_mount</span>
-</div>
-
 * If you are only going to film a 180 degree video, use the single camera mount.
 * The suction attachment is used to attach the camera to stationary flat wall or surface.
 * The handle mount is used for someone to hold and move the cameras while filming.
