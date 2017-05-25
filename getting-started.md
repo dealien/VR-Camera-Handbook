@@ -5,7 +5,7 @@
 
 ## Taking Out The Cameras
 
-Before you begin filming you want to make sure that all necessary pieces are accounted for. <br>
+Before you begin filming, it is advisable to ensure that all necessary pieces are accounted for. <br>
 
 <div class="image-gallery">
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount.png" class="image-gallery" target="_blank">
@@ -60,7 +60,7 @@ Before you begin filming you want to make sure that all necessary pieces are acc
 
 ## Camera Mechanical Assembly
 
-To get you cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount. 
+To get your cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount. 
 
 * Unzip the camera case and take out the two cameras.
 * For attaching the cameras to the double camera mount, take one camera and find the screw hole (this should be right below the camera lense and right above the SD card slot).
