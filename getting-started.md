@@ -63,7 +63,7 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
 To get your cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount. 
 
 * Unzip the camera case and take out the two cameras.
-* For attaching the cameras to the double camera mount, take one camera and find the screw hole (this should be right below the camera lense and right above the SD card slot).
+* To attach the cameras to the double camera mount, find the screw holes on the cameras located between the camera lens and the SD card slot.
 * Once located, position on the mount so that the screw on the mount lines up with the screw hole on the camera.
 * Use a flathead screwdriver to screw the camera into position.
 * Do the same for the other camera on the other side of the mount.
