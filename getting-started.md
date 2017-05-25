@@ -8,18 +8,42 @@
 Before you begin filming you want to make sure that all necessary pieces are accounted for.
 
 <div class="image-gallery">
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount_thumbnail.png" alt="" class="image-gallery">  <figcaption>Handle Mount</figcaption>
-</figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/screw_key.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/screw_key_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera_bag.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera_bag_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_cap.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_cap_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_ring.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_ring_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/protective_lens.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/protective_lens_thumbnail.png" alt="" class="image-gallery"></figure></a>
-<a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch.png" class="image-gallery" target="_blank"><figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch_thumbnail.png" alt="" class="image-gallery"></figure></a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery">
+            <img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount_thumbnail.png" alt="" class="image-gallery"> 
+            <figcaption>Handle Mount</figcaption>
+        </figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/screw_key.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/screw_key_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera_bag.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera_bag_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/camera_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_cap.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_cap_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_ring.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/lens_ring_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/protective_lens.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/protective_lens_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/watch_thumbnail.png" alt="" class="image-gallery"></figure>
+    </a>
 </div>
 
 * If you want to film a complete 360 degree video, use the two cameras with the double camera mount.
