@@ -61,22 +61,21 @@ If you are only going to film a 180 degree video, use the single camera mount in
 
 To get your cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount. 
 
-* To attach the cameras to the dual mount, find the screw holes on the cameras located between the camera lens and the SD card slot.
-* Once located, position on the mount so that the screw on the mount lines up with the screw hole on the camera.
-* Use a flathead screwdriver to screw the camera into position.
-* Do the same for the other camera on the other side of the mount.
-* After the cameras are securely in position, swing the fastening bar into alignment with the threads at the bottom of the mount
-* Position the threads on the desired mount between the threads on the double camera mount
-* Screw in the knob that came with the double mount into all of the threads until secure
-* You now have the mechanical parts of the camera correctly set up
+1. To attach the cameras to the dual mount, find the screw holes on the cameras located between the camera lens and the SD card slot
+* Use a flathead screwdriver to screw the cameras into position on the dual mount
+* After the cameras are securely in position, swing the fastening bar into alignment with the hinge at the bottom of the mount
+* Position the hinge on the top of the desired base mount between those on the dual camera mount
+* Screw in the mounting screw through the hinge until secure
 
+If you followed all the steps shown above, you are ready to move on to setting up the cameras' software and settings. 
 
 
 ## Camera Calibration
 
 If your cameras are already set with the date and time, this step is not necessary.
-* Turn on both cameras by pressing <span>record</span> until you hear a beep
-* If your cameras are not calibrated, on the screen it should show the date and time as zero
+
+* Turn on the cameras by pressing and holding <span>record</span> on each camera until you hear a beep
+* If your cameras are not calibrated, they should show the date and time as zero on the screen
 * To set the date and time, use the the two triangular buttons <span>power</span> and <span>menu</span> to move up and down the dates and the record button to move left and right by pressing down on either the left or right side of the button. To confirm your selected choice, press on the center of the record button
 * Make sure the calibration on both cameras are generally the same (it is okay if the time on the cameras is not exactly the same as long as they’re generally accurate)
 * Your cameras are now ready to be synced
@@ -86,6 +85,7 @@ If your cameras are already set with the date and time, this step is not necessa
 ## Syncing the Cameras and Using the Control Watch
 
 Syncing the cameras to the control watch allows for simultaneous control of both cameras. This reduces the time difference between the start frames of the recording, making editing easier.
+
 * Turn on both cameras.
 * Press <span>menu</span> and scroll until you see <span>pair_settings</span> and press <span>record</span>.
 * Scroll to <span>multi_pair</span> and press <span>record</span>, then select <span>pairing_confirm</span>.
