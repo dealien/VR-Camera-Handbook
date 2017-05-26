@@ -75,7 +75,7 @@ If you followed all the steps shown above, you are ready to move on to setting u
 If your cameras are already set with the date and time, this step is not necessary.
 
 * Turn on the cameras by pressing and holding <span>record</span> on each camera until you hear a beep
-* If your cameras are not calibrated, on the screen it should show the date and time as zero
+* If your cameras are not calibrated, they should show the date and time as zero on the screen
 * To set the date and time, use the the two triangular buttons <span>power</span> and <span>menu</span> to move up and down the dates and the record button to move left and right by pressing down on either the left or right side of the button. To confirm your selected choice, press on the center of the record button
 * Make sure the calibration on both cameras are generally the same (it is okay if the time on the cameras is not exactly the same as long as they’re generally accurate)
 * Your cameras are now ready to be synced
