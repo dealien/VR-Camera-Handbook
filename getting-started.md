@@ -65,9 +65,9 @@ To get your cameras ready to film, you have to assemble all of the mechanical pa
 * Use a flathead screwdriver to screw the cameras into position on the dual mount
 * After the cameras are securely in position, swing the fastening bar into alignment with the hinge at the bottom of the mount
 * Position the hinge on the top of the desired base mount between those on the dual camera mount
-* Screw in the knob that came with the double mount into all of the threads until secure
-* You now have the mechanical parts of the camera correctly set up
+* Screw in the mounting screw through the hinge until secure
 
+If you followed all the steps shown above, you are ready to move on to setting up the cameras' software and settings. 
 
 
 ## Camera Calibration
