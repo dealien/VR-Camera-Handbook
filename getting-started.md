@@ -16,14 +16,6 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
 </figcaption>
         </figure>
     </a>
-    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount.png" class="image-gallery" target="_blank">
-        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/suction_mount_thumbnail.png" alt="" class="image-gallery">
-        <figcaption>
-        <b>Suction Mount</b><br>
-        Used to attach the camera to stationary flat wall or surface.
-</figcaption>
-        </figure>
-    </a>
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/dual_mount_thumbnail.png" alt="" class="image-gallery"></figure>
         <figcaption><b>Dual Mount</b><br>
