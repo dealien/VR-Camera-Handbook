@@ -61,9 +61,8 @@ If you are only going to film a 180 degree video, use the single camera mount in
 
 To get your cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount. 
 
-* To attach the cameras to the dual mount, find the screw holes on the cameras located between the camera lens and the SD card slot.
-* Use a flathead screwdriver to screw the camera into position.
-* Do the same for the other camera on the other side of the mount.
+1. To attach the cameras to the dual mount, find the screw holes on the cameras located between the camera lens and the SD card slot
+* Use a flathead screwdriver to screw the cameras into position on the dual mount
 * After the cameras are securely in position, swing the fastening bar into alignment with the threads at the bottom of the mount
 * Position the threads on the desired mount between the threads on the double camera mount
 * Screw in the knob that came with the double mount into all of the threads until secure
