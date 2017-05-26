@@ -54,9 +54,7 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
     </a>
 </div><br>
 
-* If you are only going to film a 180 degree video, use the single camera mount.
-* The control watch is used to synchronize starting and stopping a recording, and to make sure pictures are taken at exactly the same time.
-
+If you are only going to film a 180 degree video, use the single camera mount instead of the dual camera mount. However, note that editing 180 degree video is not possible with the included software. 
 
 
 ## Camera Mechanical Assembly
