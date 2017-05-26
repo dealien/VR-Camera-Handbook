@@ -73,7 +73,8 @@ If you followed all the steps shown above, you are ready to move on to setting u
 ## Camera Calibration
 
 If your cameras are already set with the date and time, this step is not necessary.
-* Turn on both cameras by pressing <span>record</span> until you hear a beep
+
+* Turn on the cameras by pressing and holding <span>record</span> on each camera until you hear a beep
 * If your cameras are not calibrated, on the screen it should show the date and time as zero
 * To set the date and time, use the the two triangular buttons <span>power</span> and <span>menu</span> to move up and down the dates and the record button to move left and right by pressing down on either the left or right side of the button. To confirm your selected choice, press on the center of the record button
 * Make sure the calibration on both cameras are generally the same (it is okay if the time on the cameras is not exactly the same as long as they’re generally accurate)
@@ -84,6 +85,7 @@ If your cameras are already set with the date and time, this step is not necessa
 ## Syncing the Cameras and Using the Control Watch
 
 Syncing the cameras to the control watch allows for simultaneous control of both cameras. This reduces the time difference between the start frames of the recording, making editing easier.
+
 * Turn on both cameras.
 * Press <span>menu</span> and scroll until you see <span>pair_settings</span> and press <span>record</span>.
 * Scroll to <span>multi_pair</span> and press <span>record</span>, then select <span>pairing_confirm</span>.
