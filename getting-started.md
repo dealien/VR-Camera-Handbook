@@ -12,7 +12,7 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
         <figure class="image-gallery">
             <img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/handle_mount_thumbnail.png" alt="" class="image-gallery"> 
             <figcaption><b>Handle Mount</b><br>
-            Used for someone to hold and move the cameras while filming.
+            Used to hold the cameras while filming and moving.
 </figcaption>
         </figure>
     </a>
