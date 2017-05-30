@@ -83,7 +83,7 @@ img.image-gallery {
 
 /* End Image Gallery Style */
 
-img.assembly {
+.assembly {
     margin: 50%;
     display: block;
     height: 250px;

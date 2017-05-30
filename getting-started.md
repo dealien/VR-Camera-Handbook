@@ -69,8 +69,8 @@ To get your cameras ready to film, you have to assemble all of the mechanical pa
 
 1. To attach the cameras to the dual mount, find the screw holes on the cameras located between the camera lens and the SD card slot
 
-<img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mount_step_1.png" class="assembly">
-<img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mount_step_2.png" class="assembly">
+<img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mount_step_1.png" class="assembly" align="left" hspace="20">
+<img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mount_step_2.png" class="assembly" hspace="20">
 
 2. Use a flathead screwdriver to screw the cameras into position on the dual mount
 * After the cameras are securely in position, swing the fastening bar into alignment with the hinge at the bottom of the mount
