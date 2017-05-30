@@ -82,7 +82,7 @@ If you followed all the steps as shown above, you are ready to move on to settin
 
 ## Camera Calibration
 
-If your cameras are already set with the date and time, this step is not necessary.
+__If your cameras are already set to the correct date and time, this step is not necessary.__
 
 * Turn on the cameras by pressing and holding <span>record</span> on each camera until you hear a beep
 * If your cameras are not calibrated, they should show the date and time as zero on the screen
