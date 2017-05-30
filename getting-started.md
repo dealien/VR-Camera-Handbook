@@ -55,7 +55,7 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
     <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mounting_screws.png" class="image-gallery" target="_blank">
         <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mounting_screws_thumbnail.png" alt="" class="image-gallery"></figure>
         <figcaption><b>Mounting Screws</b><br>
-        Used for basic simultaneous control of both cameras. 
+        Used to connect the camera mount and base mount hinges. 
         </figcaption>
     </a>
 </div><br>
