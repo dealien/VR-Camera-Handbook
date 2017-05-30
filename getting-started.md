@@ -52,6 +52,12 @@ Before you begin filming, ensure that all necessary pieces are accounted for. <b
         Used for basic simultaneous control of both cameras. 
         </figcaption>
     </a>
+    <a href="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mounting_screws.png" class="image-gallery" target="_blank">
+        <figure class="image-gallery"><img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mounting_screws_thumbnail.png" alt="" class="image-gallery"></figure>
+        <figcaption><b>Mounting Screws</b><br>
+        Used for basic simultaneous control of both cameras. 
+        </figcaption>
+    </a>
 </div><br>
 
 If you are only going to film a 180 degree video, use the single camera mount instead of the dual camera mount. However, note that editing 180 degree video is not possible with the included software. 
