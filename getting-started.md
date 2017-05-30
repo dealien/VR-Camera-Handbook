@@ -68,7 +68,11 @@ If you are only going to film a 180 degree video, use the single camera mount in
 To get your cameras ready to film, you have to assemble all of the mechanical parts that will form the camera mount. 
 
 1. To attach the cameras to the dual mount, find the screw holes on the cameras located between the camera lens and the SD card slot
-* Use a flathead screwdriver to screw the cameras into position on the dual mount
+
+<img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mount_step_1.png" class="assembly">
+<img src="https://dealien.gitbooks.io/vr-camera-handbook/content/assets/mount_step_2.png" class="assembly">
+
+2. Use a flathead screwdriver to screw the cameras into position on the dual mount
 * After the cameras are securely in position, swing the fastening bar into alignment with the hinge at the bottom of the mount
 * Position the hinge on the top of the desired base mount between those on the dual camera mount
 * Screw in the mounting screw through the hinge until secure
