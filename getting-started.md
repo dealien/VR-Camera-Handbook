@@ -132,7 +132,7 @@ If you are using the cameras for a long period of time you are going to need to 
 
 
 
-## Before Filming Things to Double Check
+## Before Filming: Things to Double Check
 
 * Are both batteries charged?
 * Are both mini SD cards in camera?
