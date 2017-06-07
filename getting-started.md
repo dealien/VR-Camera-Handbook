@@ -113,7 +113,9 @@ Once you are ready to film, it is very important you know how to use the mount y
 
 * Find a completely smooth and flat surface to attach your cameras to
 * Hold the mount firmly against the surface and push down the arm on the mount to secure it.
-* Your suction mount is now in place and ready to film
+
+Your camera is now mounted and ready to begin filming. __Please make sure__ that your cameras are securely mounted on the surface before walking away. Certain surfaces will seem secure for a short time, but over time the air will find its way in underneath the suction cup and break the seal, causing the cameras to fall. The suction mount was designed to 
+
 
 ##### With Hand Mount
 
